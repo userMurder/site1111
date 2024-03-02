@@ -1,0 +1,100 @@
+Uri: https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\yondi.me\npm\swiper@8\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\yondi.me\npm\swiper@8\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\yondi.me\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+File Name: C:\Downloaded Web Sites\yondi.me\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+File Name: C:\Downloaded Web Sites\yondi.me\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+File Name: C:\Downloaded Web Sites\yondi.me\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: C:\Downloaded Web Sites\yondi.me\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: C:\Downloaded Web Sites\yondi.me\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myjJAVG.ttf
+File Name: C:\Downloaded Web Sites\yondi.me\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myjJAVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: C:\Downloaded Web Sites\yondi.me\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: C:\Downloaded Web Sites\yondi.me\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+File Name: C:\Downloaded Web Sites\yondi.me\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+Content Type: font/ttf
+
+Uri: https://moe-counter.glitch.me/get/@yondi.me-website
+File Name: C:\Downloaded Web Sites\yondi.me\get\@yondi.me-website
+Content Type: image/svg+xml
+
+Uri: https://yondi.me/
+File Name: C:\Downloaded Web Sites\yondi.me\index.htm
+Content Type: text/html
+
+Uri: https://yondi.me/css/style.css
+File Name: C:\Downloaded Web Sites\yondi.me\css\style.css
+Content Type: text/css
+
+Uri: https://yondi.me/img/avachka.jpg
+File Name: C:\Downloaded Web Sites\yondi.me\img\avachka.jpg
+Content Type: image/jpeg
+
+Uri: https://yondi.me/img/avatar.jpg
+File Name: C:\Downloaded Web Sites\yondi.me\img\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://yondi.me/img/carousel/arzfastanim.jpg
+File Name: C:\Downloaded Web Sites\yondi.me\img\carousel\arzfastanim.jpg
+Content Type: image/jpeg
+
+Uri: https://yondi.me/img/carousel/centralmarket.jpg
+File Name: C:\Downloaded Web Sites\yondi.me\img\carousel\centralmarket.jpg
+Content Type: image/jpeg
+
+Uri: https://yondi.me/img/carousel/hyperyaderi.jpg
+File Name: C:\Downloaded Web Sites\yondi.me\img\carousel\hyperyaderi.jpg
+Content Type: image/jpeg
+
+Uri: https://yondi.me/img/carousel/luascripts.jpg
+File Name: C:\Downloaded Web Sites\yondi.me\img\carousel\luascripts.jpg
+Content Type: image/jpeg
+
+Uri: https://yondi.me/img/carousel/offlinecleaner.jpg
+File Name: C:\Downloaded Web Sites\yondi.me\img\carousel\offlinecleaner.jpg
+Content Type: image/jpeg
+
+Uri: https://yondi.me/img/sad.jpg
+File Name: C:\Downloaded Web Sites\yondi.me\img\sad.jpg
+Content Type: image/jpeg
+
+Uri: https://yondi.me/js/swiper.home.js
+File Name: C:\Downloaded Web Sites\yondi.me\js\swiper.home.js
+Content Type: application/javascript
+
+Uri: https://yondi.me/js/vkmusic.js
+File Name: C:\Downloaded Web Sites\yondi.me\js\vkmusic.js
+Content Type: application/javascript
+
